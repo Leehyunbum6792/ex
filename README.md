@@ -65,3 +65,5 @@ git log --oneline --graph
 
 포크된 데이터 로컬에 불러오기 
 git clone 주소
+
+![image](https://github.com/Leehyunbum6792/ex/assets/142865344/6b6757f1-f722-41fc-810e-3870048de4e9)
